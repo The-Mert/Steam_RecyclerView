@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SteamFake</string>
+
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+                    <!--   Toolbar texts-->
+    <string name="dropdown_menu">MENU</string>
+    <string name="wishList">WISHLIST</string>
+    <string name="wallet">WALLET</string>
+    <string name="price_before">70,00 $  </string>
+
+
+
+</resources>
